@@ -62,7 +62,7 @@ filter: grayscale();
 }
 
 .mynavbar .offcanvas{
-    height: 100vh;
+    height: 50vh;
 }
 
 .mynavbar .navbar-brand,
